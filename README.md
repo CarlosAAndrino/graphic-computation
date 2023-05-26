@@ -1,4 +1,4 @@
-##Explicação do Código rgb.py
+## Explicação do Código rgb.py <h2>
 Este código em Python utiliza a biblioteca PIL (Python Imaging Library) para abrir uma imagem do arquivo "ornitorrinco_original.jpg" localizado na pasta "images". A imagem é armazenada na variável img.
 
 A biblioteca PIL é comumente usada para manipular imagens em Python. Ela fornece uma série de funcionalidades para carregar, editar e salvar imagens em vários formatos.
